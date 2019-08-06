@@ -16,3 +16,4 @@ Used Tools:
  * VS Code
  * Chrome
  * Opera
+<img src="https://github.com/deba1/bus-ticket-booking-system/raw/master/screenshots/homepage.png" alt="Screenshot" width="100%"/>
