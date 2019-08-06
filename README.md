@@ -1,5 +1,6 @@
 # Bus Ticket Booking System
-An online Bus Ticket Booking and Management System<br>
+An online Bus Ticket Booking and Management System
+__________________________________________________
 Used Languages:
  * HTML
  * CSS
@@ -7,7 +8,8 @@ Used Languages:
  * jQuery
  * Bootstrap
  * PHP
- * MySQL<br>
+ * MySQL
+ ---------------------------------------------
 Used Tools:
  * XAMPP
  * Sublime Text 3
